@@ -1,0 +1,14 @@
+body{
+	padding-top: 70px;
+}
+.navbar-inverse input[type="text"]{
+	background: #333;
+	color: #999;
+	border: none;
+
+}
+.navbar-inverse button[type="submit"]{
+	background: none;
+	color: #fff;
+    border: none;
+}
